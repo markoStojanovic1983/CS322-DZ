@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|c:\\users\\mare\\desktop\\faks domaci\\cs322-dz-marko-stojanovic-1983\\dz15\\dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|solutionrelative:dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|c:\\users\\mare\\desktop\\faks domaci\\cs322-dz-marko-stojanovic-1983\\dz15\\dz15\\bankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|solutionrelative:dz15\\bankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|c:\\users\\mare\\desktop\\faks domaci\\cs322-dz-marko-stojanovic-1983\\dz15\\dz15\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|solutionrelative:dz15\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7C9E458-0338-4649-86A1-0D9522170E7C}|DZ15\\DZ15.csproj|solutionrelative:dz15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.cs",
+              "RelativeDocumentMoniker": "DZ15\\Form1.cs",
+              "ToolTip": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.cs [Design]",
+              "RelativeToolTip": "DZ15\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:13:49.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DZ15\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.Designer.cs",
+              "RelativeToolTip": "DZ15\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:13:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.cs",
+              "RelativeDocumentMoniker": "DZ15\\Form1.cs",
+              "ToolTip": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\Form1.cs",
+              "RelativeToolTip": "DZ15\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:04:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankData.cs",
+              "DocumentMoniker": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\BankData.cs",
+              "RelativeDocumentMoniker": "DZ15\\BankData.cs",
+              "ToolTip": "C:\\Users\\mare\\Desktop\\Faks domaci\\CS322-DZ-Marko-Stojanovic-1983\\DZ15\\DZ15\\BankData.cs",
+              "RelativeToolTip": "DZ15\\BankData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:54:21.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

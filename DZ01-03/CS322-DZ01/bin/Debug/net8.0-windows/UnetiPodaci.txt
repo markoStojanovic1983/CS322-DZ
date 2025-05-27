@@ -1,0 +1,5 @@
+Ime: Marko
+Prezime: Stojanovic
+Adresa: Vitezova Karadjordjeve Zvezde
+Vreme unosa: 11/25/2024 6:02:19 PM
+----------------------------------------

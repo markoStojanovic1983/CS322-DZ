@@ -1,0 +1,16 @@
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\bin\Debug\net8.0-windows\DZ10_1.exe
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\bin\Debug\net8.0-windows\DZ10_1.deps.json
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\bin\Debug\net8.0-windows\DZ10_1.runtimeconfig.json
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\bin\Debug\net8.0-windows\DZ10_1.dll
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\bin\Debug\net8.0-windows\DZ10_1.pdb
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.Form1.resources
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.csproj.GenerateResource.cache
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.AssemblyInfoInputs.cache
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.AssemblyInfo.cs
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.dll
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\refint\DZ10_1.dll
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.pdb
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\DZ10_1.genruntimeconfig.cache
+C:\Users\stoja\OneDrive\Desktop\CS322-DZ-Marko-Stojanovic-1983\DZ10_1\obj\Debug\net8.0-windows\ref\DZ10_1.dll
